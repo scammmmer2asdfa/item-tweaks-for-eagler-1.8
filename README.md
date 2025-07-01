@@ -33,3 +33,5 @@ use eaglercrack for the archive of clients and also texture packs for life easy.
 
 https://drive.google.com/drive/folders/1-Gf0ymPzMkH5bItwOyN2daGRMbRMyB2e
 another archive
+
+astra 1.6.0 is released on astraclient.com
