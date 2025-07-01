@@ -5,6 +5,14 @@ once again it will be a mediafire link. please do not credit me as the creator o
 
 eh...
 
+now more stuff :D
+
+https://minecraft-github-io.vercel.app/packs.html
+
+https://github.com/ProofrTemp/eaglercrack-archive/tree/main/clients/1.5
+
+https://github.com/WBattist/archive
+
 basically vanilla tweaks for 1.8 pvp and shat. link also the modrinth page. 
 
 https://www.mediafire.com/file/wb0tqo60nhiql38/IM-BT+[1.8.9].zip/file
